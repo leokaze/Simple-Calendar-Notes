@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          Simple Calendar App
         </q-toolbar-title>
       </q-toolbar>
     </q-header>
