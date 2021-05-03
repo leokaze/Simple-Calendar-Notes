@@ -98,7 +98,9 @@ module.exports = function (/* ctx */) {
       // directives: [],
 
       // Quasar plugins
-      plugins: []
+      plugins: [
+        // "vcalendar"
+      ]
     },
 
     // animations: 'all', // --- includes all animations
